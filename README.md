@@ -1,4 +1,4 @@
-## [Cross-View Cross-Scene Multi-View Crowd Counting](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Cross-View_Cross-Scene_Multi-View_Crowd_Counting_CVPR_2021_paper.pdf)
+## [Cross-View Cross-Scene Multi-View Crowd Counting (CVCS)](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Cross-View_Cross-Scene_Multi-View_Crowd_Counting_CVPR_2021_paper.pdf)
 
 ![alt text](http://visal.cs.cityu.edu.hk/wp/wp-content/uploads/pipeline-1.jpg)
 
