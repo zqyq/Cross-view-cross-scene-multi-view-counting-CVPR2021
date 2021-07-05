@@ -14,7 +14,8 @@ Multi-view crowd counting has been previously proposed to utilize multi-cameras 
 
 - [Google Drive](https://drive.google.com/drive/folders/1fcUM4sXOdW-TJa2exLrwhxjvZ6lTbh-4?usp=sharing)
    
-### Cite paper:
+### Cite our paper:
+   If you feel the paper, dataset or code, is useful to you, please cite our paper.
     @inproceedings{zhang2021cvcs,
     title={Cross-View Cross-Scene Multi-View Crowd Counting},
     author={Zhang, Qi, Lin, Wei, and Chan, Antoni B},
